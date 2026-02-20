@@ -5,7 +5,7 @@ To run program:
 2. Run it through the UI ||(or) through the terminal by doing the following steps...
    1. cd to the number-guess folder
    2. type in 'java Main.java'
-3. Enjoy!
-  
+3. Enjoy! Leave your suggestions in the discussions box thank you!
+
 
 Project URL: https://roadmap.sh/projects/number-guessing-game
